@@ -6,7 +6,7 @@ me=15
 me=me + 10 
 mama=mama + 10
 
-print(me+mama)
+print(me-mama)
 
 
 
