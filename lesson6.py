@@ -1,3 +1,4 @@
+#tickets price
 i=25
 #adults quantity
 adults=10
