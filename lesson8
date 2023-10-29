@@ -1,0 +1,18 @@
+x = [2, 4, 6, 2, 4, 7, 2, 9]
+for i in range(2):
+    x.remove(4)
+print(x)
+
+
+#meorer davaleba
+names=["shorena","vato","nini"]
+family_ages=[49,49,15]
+years_later=[59,59,25]
+full_sentence="moms name is: {}, dads name is: {},my name is: {}". format(names[0],names[1],names[2])
+print(full_sentence) 
+
+full_sentence= "moms age is: {} fahters age is : {} my age is: {} " .format(family_ages[0], family_ages[1], family_ages[2])
+print(full_sentence)
+
+years_later= "moms age in 10 years{},fathers age in 10 years{}, my age in 10 years{}".format(years_later[0], years_later[1],years_later[2])
+print(years_later)
